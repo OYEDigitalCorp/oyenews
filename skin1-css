@@ -1,0 +1,108 @@
+<![CDATA[
+body#layout, body#layout div.section {
+font-family:Arial,sans-serifsans-serif;
+}
+body#layout {
+background-color:transparent;
+border:none;
+text-align:left;
+max-width:768px;
+margin:0 auto;
+padding:15px;
+}
+body#layout:before {
+content:'Oye Jobs News v1.1 (1 September 2023)';
+display:inline-block;
+background-color:#000000;
+color:#ffffff;
+font-size:24px;
+font-weight:700;
+border-radius:7px;
+margin-bottom:30px;
+padding:10px 15px;
+}
+body#layout div.section {
+background-color:transparent;
+border:1px solid;
+border-color:#e2e2e2;
+border-radius:7px;
+width:-webkit-fill-available;
+max-width:100%;
+max-height:100%;
+margin:0 0 15px;
+padding:15px;
+}
+body#layout div.section > div {
+border-radius:7px;
+}
+body#layout .add_widget a {
+color:#0e8136;
+}
+body#layout #header {
+width:50%;
+margin-right:15px;
+}
+body#layout .oye_navigation {
+width:50%;
+}
+body#layout .header_left {
+display:flex;
+}
+body#layout .section h4 {
+font-size:14px;
+text-transform:uppercase;
+margin:0 0 5px;
+}
+body#layout .locked-widget .widget-content {
+border-radius:7px;
+}
+body#layout .widget-content {
+border-radius:0 7px 7px 0;
+}
+body#layout .visibility .editlink.icon {
+border:1px solid;
+border-color:#e2e2e2;
+border-radius:50%;
+padding:6px;
+}
+body#layout .visibility .editlink.icon:hover {
+background-color:#e2e2e2;
+}
+body#layout .oye_content_wrapper {
+display:flex;
+}
+body#layout .oye_index_post {
+margin-right:15px;
+width:50%;
+}
+body#layout .oye_sidebar {
+width:50%;
+}
+body#layout #sidebar_sticky {
+position:sticky;
+top:15px;
+}
+body#layout .Blog .widget-content {
+height:unset;
+}
+body#layout .add_widget {
+margin-top:15px!important;
+}
+body#layout .draggable-widget .widget-wrap2 {
+background-color:#0e8136;
+border-radius:7px 0 0 7px;
+}
+body#layout .visibility .layout-widget-state.not-visible {
+background-image:url('https://4.bp.blogspot.com/-tqL3-mrEM7A/XR_H_P3mFZI/AAAAAAAABSs/4PO1g3CDQbse_mJYzwn-60OQoYMFcq1FQCK4BGAYYCw/s1600/visibility_off_c3_600_24dp.png');
+opacity:1;
+}
+body#layout .ad_under_header .widget-content, body#layout .infeed_ad .widget-content, body#layout .top_ad .widget-content, body#layout .middle_ad1 .widget-content, body#layout .parallax_ad .widget-content, body#layout .middle_ad2 .widget-content, body#layout .bottom_ad .widget-content, body#layout .matched_content .widget-content {
+background-color:#f1e0b4;
+}
+body#layout .ad_under_header .widget-content .editlink.icon, body#layout .infeed_ad .widget-content .editlink.icon, body#layout .top_ad .widget-content .editlink.icon, body#layout .middle_ad1 .widget-content .editlink.icon, body#layout .parallax_ad .widget-content .editlink.icon, body#layout .middle_ad2 .widget-content .editlink.icon, body#layout .bottom_ad .widget-content .editlink.icon, body#layout .matched_content .widget-content .editlink.icon {
+border-color:#9d9d9d;
+}
+body#layout .ad_under_header .widget-content .editlink.icon:hover, body#layout .infeed_ad .widget-content .editlink.icon:hover, body#layout .top_ad .widget-content .editlink.icon:hover, body#layout .middle_ad1 .widget-content .editlink.icon:hover, body#layout .parallax_ad .widget-content .editlink.icon:hover, body#layout .middle_ad2 .widget-content .editlink.icon:hover, body#layout .bottom_ad .widget-content .editlink.icon:hover, body#layout .matched_content .widget-content .editlink.icon:hover {
+background-color:#ffffff;
+}
+]]>
